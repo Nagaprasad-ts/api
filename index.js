@@ -6,3 +6,5 @@ function myFunction() {
     y = x.split("").reverse().join("");
     document.getElementById("demo").innerHTML = y;
 }
+
+console.log("index.js loaded");
