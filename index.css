@@ -1,0 +1,4 @@
+/* remove bullets for class name mylist */
+.mylist {
+    list-style-type: none;
+}
